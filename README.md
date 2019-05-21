@@ -1,8 +1,6 @@
-![](https://cdn.discordapp.com/attachments/265411250341543936/269612274765791242/eris_128.png)
-# Endless Horizon: CEV-Eris [![Build Status](https://travis-ci.org/discordia-space/CEV-Eris.svg?branch=master)](https://travis-ci.org/Endless-Horizon/CEV-Eris)[![Krihelimeter](http://www.krihelinator.xyz/badge/discordia-space/CEV-Eris/)](http://www.krihelinator.xyz)
-[![discord](https://discordapp.com/api/guilds/255035529085583360/widget.png)](https://discord.gg/QfEg7K7)
-
-Корабль, который должен умирать.
+![](https://github.com/2cwldys/Lambda-Bay/blob/master/lambdabay_sprites/lambdabay%2064x64.png?raw=true)
+# Lambda Bay: City Seventeen [![Build Status](https://api.travis-ci.org/2cwldys/Lambda-Bay.svg?branch=master)](https://travis-ci.org/2cwldys/Lambda-Bay)[![Krihelimeter](https://www.krihelinator.xyz/badge/2cwldys/Lambda-Bay)](http://www.krihelinator.xyz)
+[![discord](https://discordapp.com/api/guilds/404174773263007744/widget.png)](https://discord.gg/e6RerAx)
 
 ## CONTRIBUTING
 
