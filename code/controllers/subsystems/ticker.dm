@@ -52,12 +52,7 @@ SUBSYSTEM_DEF(ticker)
 
 /datum/controller/subsystem/ticker/PreInit()
 	login_music = pick(list(
-		'sound/music/tonspender_irritations.ogg',
-		'sound/music/i_am_waiting_for_you_last_summer_neon_fever.ogg',
-		'sound/music/paradise_cracked_skytown.ogg',
-		'sound/music/nervous_testpilot _my_beautiful_escape.ogg',
-		'sound/music/deus_ex_unatco_nervous_testpilot_remix.ogg',
-		'sound/music/paradise_cracked_title03.ogg'))
+		'sound/music/route_to_city_seventeen.ogg'))
 
 /datum/controller/subsystem/ticker/Initialize(start_timeofday)
 	if(!syndicate_code_phrase)
